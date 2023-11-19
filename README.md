@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @LwandoMadebe
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently improving my skills in the following langaunges, HTML,CSS,JavaScripts,MySQL,PHP,Python, etc.
-- 💞️ I’m looking forward to create more projects 
-- 📫 You can reach me via email lwandoluyolo@gmail.com
+# Software Development 
+I'm a reliable a person who is interested in Software Development and I have built interesting projects to enhance my skills below. 
 
 
