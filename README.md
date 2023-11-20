@@ -3,7 +3,7 @@ I'm a reliable a person who is interested in Software Development and I have bui
 
 # languages and tools
 Here are some languages and tools that I have experience with. 
-<img src='![css](https://github.com/LwandoMadebe/To-do-list/assets/147529941/020d2c7f-6239-4ca9-a8a3-4fb41e40f8a6)' width='25'>
+<img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/020d2c7f-6239-4ca9-a8a3-4fb41e40f8a6" width='25'>
 <img src='![boostrap](https://github.com/LwandoMadebe/To-do-list/assets/147529941/235201bc-7cd4-4a40-97e5-82f9e82f0acc)' width='25'>
 ![git](https://github.com/LwandoMadebe/To-do-list/assets/147529941/98d5a589-2ba0-47de-8852-a0541b6ffb09)
 ![github](https://github.com/LwandoMadebe/To-do-list/assets/147529941/fef3f566-3631-4f23-9637-d0c4649f7938)
