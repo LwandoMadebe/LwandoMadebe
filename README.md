@@ -12,4 +12,7 @@ Here are some languages and tools that I have experience with.
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/6d8cb674-6da6-4b2a-ab1f-8f8feb8fd9f7" width='100'>
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/27b91e4e-8447-41a5-a62b-c1adf86b6a28" width='100'>
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/c3bc6b45-08c8-478a-9f23-da24ccf796b3" width='100'>
+<img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/358fe42d-fa96-46e7-89a2-670a4a15ae82" width='100'>
+<img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/9025bafd-da50-4a18-b497-558ac6d5322d" width='100'>
+
 
