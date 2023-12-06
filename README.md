@@ -4,8 +4,6 @@ I'm a reliable a person who is interested in Software Development and I have bui
 # languages and tools
 Here are some languages and tools that I have experience with. 
 
-# Next Project to build
-
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/020d2c7f-6239-4ca9-a8a3-4fb41e40f8a6" width='80'>
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/235201bc-7cd4-4a40-97e5-82f9e82f0acc" width='80'>
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/98d5a589-2ba0-47de-8852-a0541b6ffb09" width='80'>
@@ -16,5 +14,7 @@ Here are some languages and tools that I have experience with.
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/c3bc6b45-08c8-478a-9f23-da24ccf796b3" width='80'>
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/358fe42d-fa96-46e7-89a2-670a4a15ae82" width='80'>
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/9025bafd-da50-4a18-b497-558ac6d5322d" width='80'>
+
+# Next Project to build
 
 
