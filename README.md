@@ -26,7 +26,7 @@ The next major project that I'm planning to develop is AI chatbot and that will 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LwandoMadebe)](https://github.com/LwandoMadebe/github-readme-stats)
 
-![Lwando Madebe GitHub stats](https://github-readme-stats.vercel.app/api?username=LwandoMadebe&theme=dark&show_icons=true)
+![Lwando Madebe GitHub stats](https://github-readme-stats.vercel.app/api?username=LwandoMadebe&theme=white&show_icons=true)
 
 
 
