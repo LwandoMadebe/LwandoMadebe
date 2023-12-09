@@ -23,6 +23,9 @@ The next major project that I'm planning to develop is AI chatbot and that will 
 2. AI Chatbot will be also developed for e-commerce website that I built and will assist customers to take important decisions when customers purchase their products.
 3. Langauges that will be used for this AI Chatbot is Python, JavaScript, HTML and CSS.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/LwandoMadebe/github-readme-stats)
+
 ![Lwando Madebe GitHub stats](https://github-readme-stats.vercel.app/api?username=LwandoMadebe&theme=dark&show_icons=true)
 
 
