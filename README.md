@@ -17,7 +17,8 @@ Here are some languages and tools that I have experience with.
 
 # Next Project to build
 ### Python AI Chatbot
-The next major project that I'm planning to develop is AI chatbot and that will assist users and customers to navigate through the websites
+The next major project that I'm planning to develop is AI chatbot and that will assist users and customers to navigate through the websites.
+
 <img src="https://github.com/LwandoMadebe/Portfolio/assets/147529941/e1e18576-8c26-400a-a486-1a0df7a0c702" width='400'>
 1. AI Chatbot will be added on my portfolio website that will assist users to know more about the portfolio and me.
 2. AI Chatbot will be also developed for e-commerce website that I built and will assist customers to take important decisions when customers purchase their products.
