@@ -14,7 +14,7 @@ Here are some languages and tools that I have experience with.
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/c3bc6b45-08c8-478a-9f23-da24ccf796b3" width='80'>
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/358fe42d-fa96-46e7-89a2-670a4a15ae82" width='80'>
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/9025bafd-da50-4a18-b497-558ac6d5322d" width='80'>
-<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/671e4676-ce2b-4cc7-bce4-08da7276418f" width='80'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/671e4676-ce2b-4cc7-bce4-08da7276418f" width='100'>
 
 # Next Project to build
 ### AI Chatbot
