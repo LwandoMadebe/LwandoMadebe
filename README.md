@@ -16,16 +16,6 @@ Here are some languages and tools that I have experience with.
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/9025bafd-da50-4a18-b497-558ac6d5322d" width='80'>
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/671e4676-ce2b-4cc7-bce4-08da7276418f" width='150'>
 
-# Next Project to build
-### AI Chatbot
-The next major project that I'm planning to develop is AI chatbot and that will assist users and customers to navigate through the websites.
-
-<img src="https://github.com/LwandoMadebe/Portfolio/assets/147529941/e1e18576-8c26-400a-a486-1a0df7a0c702" width='400'>
-
-1. AI Chatbot will be added on my portfolio website that will assist users to know more about the portfolio and me.
-2. AI Chatbot will be also developed for e-commerce website that I built and will assist customers to take important decisions when customers purchase their products.
-3. This AI Chatbot will be developed using these folllowing languages Python as a Backend and JavaScript, HTML, CSS as a Frontend 
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LwandoMadebe)](https://github.com/LwandoMadebe/github-readme-stats)
 
