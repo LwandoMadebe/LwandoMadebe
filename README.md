@@ -17,6 +17,8 @@ Here are some languages and tools that I have experience with.
 <img src="https://github.com/user-attachments/assets/008c802f-d45c-4d5f-b5db-b52c2d8eebbe" width='140'>
 <img src="https://github.com/user-attachments/assets/43262a74-1bd1-46b8-a850-86ce3cf34100" width='100'>
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/671e4676-ce2b-4cc7-bce4-08da7276418f" width='150'>
+<img src="https://github.com/user-attachments/assets/1c9d9c4d-fc5d-4792-988e-674bf56043e8" width='80'>
+
 
 
 
