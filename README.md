@@ -1,5 +1,5 @@
 # Cyber Security and Software Development 
-I am currently pursuing my Informatics (Information Systems) Honours at Stellenbosch University. I am a reliable individual with a strong interest in Cyber Security and Software Development. I have built several projects to enhance my skills, as listed below. I excel in programming, design, analysis, and problem-solving. I am also comfortable using various tools and languages to develop more projects. Additionally, I work well with others to achieve common goals that benefit the company.
+I recently completed bachelor of Informatics (Information Systems) Honours at Stellenbosch University. I am a reliable individual with a strong interest in Cyber Security and Software Development. I have built several projects to enhance my skills, as listed below. I excel in programming, design, analysis, and problem-solving. I am also comfortable using various tools and languages to develop more projects. Additionally, I work well with others to achieve common goals that benefit the company.
 
 # languages and tools
 Here are some languages and tools that I have experience with. 
